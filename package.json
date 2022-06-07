@@ -1,0 +1,23 @@
+{
+  "name": "gulp-settings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0idea0/Gulp-settings.git"
+  },
+  "author": "0idea0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0idea0/Gulp-settings/issues"
+  },
+  "homepage": "https://github.com/0idea0/Gulp-settings#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
